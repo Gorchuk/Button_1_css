@@ -1,0 +1,54 @@
+.get_sample {
+    background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0d…0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2xlc3NoYXQtZ2VuZXJhdGVkKSIgLz48L3N2Zz4=);
+    background-image: -webkit-linear-gradient(bottom, #01b369 0%, #01e587 100%);
+    background-image: -moz-linear-gradient(bottom, #01b369 0%, #01e587 100%);
+    background-image: -o-linear-gradient(bottom, #01b369 0%, #01e587 100%);
+    background-image: linear-gradient(to top, #01b369 0%, #01e587 100%);
+    background-color: #01cc78;
+    -webkit-box-shadow: 0 7px 0 0 #01663c;
+    -moz-box-shadow: 0 7px 0 0 #01663c;
+    box-shadow: 0 7px 0 0 #01663c;
+    font-size: 24px;
+    line-height: 41px;
+    margin-top: 8px;
+    width: 100%;
+    color: #fff;
+    border: none;
+    -webkit-border-radius: 5px;
+    -webkit-background-clip: padding-box;
+    -moz-border-radius: 5px;
+    -moz-background-clip: padding;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    webkit-transition: 0.1s ease;
+    -moz-transition: 0.1s ease;
+    -o-transition: 0.1s ease;
+    transition: 0.1s ease;
+    outline: 0;
+    outline-offset: 0;
+}
+.button_wrapper_sample {
+    display: inline-block;
+    width: 319px;
+    position: relative;
+    margin-left: 42%;
+}
+.get_sample:hover {
+    background-color: #02fe96;
+    background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0d…0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2xlc3NoYXQtZ2VuZXJhdGVkKSIgLz48L3N2Zz4=);
+    background-image: -webkit-linear-gradient(bottom, #01995a 0%, #35feab 100%);
+    background-image: -moz-linear-gradient(bottom, #01995a 0%, #35feab 100%);
+    background-image: -o-linear-gradient(bottom, #01995a 0%, #35feab 100%);
+    background-image: linear-gradient(to top, #01995a 0%, #35feab 100%);
+    color: #fff;
+}
+.get_sample:active {
+    webkit-box-shadow: 0 1px 0 0 #01663c;
+    -webkit-box-shadow: 0 1px 0 0 #01663c;
+    box-shadow: 0 1px 0 0 #01663c;
+    margin-top: 14px;
+    outline: none;
+    color: #fff;
+}
